@@ -7,5 +7,8 @@
     "directory": "services/xml-services-section"
   },
   "type": "module",
-  "dependencies": {}
+  "dependencies": {},
+  "files": [
+    "README.md"
+  ]
 }

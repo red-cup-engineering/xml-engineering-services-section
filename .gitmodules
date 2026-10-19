@@ -1,0 +1,4 @@
+[submodule "xml-document-rendering-service"]
+	path = services/xml-document-rendering-service
+	url = https://github.com/red-cup-engineering/xml-document-rendering-service.git
+	branch = main

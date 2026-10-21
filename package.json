@@ -9,5 +9,10 @@
   "dependencies": {},
   "files": [
     "README.md"
-  ]
+  ],
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
 }
